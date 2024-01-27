@@ -1,0 +1,9 @@
+[project]
+name = "LazyChat"
+version = "0.0.1"
+authors = [{"name":"Saveliy",}]
+description = "Small project on Flask."
+readme = "ReadMe.md"
+
+[project.urls]
+Homepage = "https://github.com/UserPotato228/LazyChat"
